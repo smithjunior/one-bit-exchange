@@ -20,6 +20,9 @@ $ docker-compose run --rm app bundle exec rails db:create db:migrate
 $ docker-compose run --rm app bundle exec rails webpacker:install
 ```
 
+```bash
+$ docker-compose run --rm app yarn install
+```
 
 ## Run App
 

@@ -4,6 +4,7 @@ class ExchangesController < ApplicationController
 
   def convert
     value = ExchangeService.new(params[:source_currency], params[:target_currency], params[:amount]).call
+    puts value
     render json: { "value": value }
   end
 end
