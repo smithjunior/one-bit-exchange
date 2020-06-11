@@ -29,3 +29,7 @@ $ docker-compose run --rm app yarn install
 ```bash
 $ docker-compose up
 ```
+
+## Demo
+
+[One Bit Exchange On Heroku](https://one-bit-exchange.herokuapp.com/)
