@@ -33,3 +33,18 @@ $ docker-compose up
 ## Demo
 
 [One Bit Exchange On Heroku](https://one-bit-exchange.herokuapp.com/)
+
+## Challenges
+
+### Fácil (obrigatório)
+
+- [x] 1 – Customize a aparência do APP mudando o fundo, cores, textos e etc
+
+### Médio (obrigatório)
+
+- [x] 1 – Remova o Botão “CONVERTER” e converta automaticamente assim que o usuário entrar com uma quantidade no campo de texto.
+- [x] 2 – Adicione um botão com um icone de inversão que quando clicado vai substituir a moeda escolhida no primeiro select pela do segundo.
+
+### Difícil
+
+- [x] 1 – Modifique a estrutura do APP para permitir que ele converta os valores para Bitcoin.
